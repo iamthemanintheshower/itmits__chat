@@ -1,0 +1,4 @@
+span.chatwith:hover {
+    background-color: #ddd !important;
+    cursor: pointer !important;
+}
